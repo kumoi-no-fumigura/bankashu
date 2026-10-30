@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/bankashu",
  "yomi": "ばんかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（自撰）",
+  "era": "文化8年（1811）1月跋",
+  "author": "下河辺長流（1627〜1686）",
+  "desc": "契沖の友で、古典の学に通じた歌人下河辺長流の自撰家集。契沖の『漫吟集』とともに板に彫られたと跋にいう。"
+ },
  "editions": [
   {
    "pid": "993379",
